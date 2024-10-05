@@ -1,0 +1,5 @@
+creaza o matrice x / y
+la fiecare punct creaza o lista de obiecte
+creaza o fucntie care masora distanta intre puncte
+daca un obiecte paraseste un cuadrant adica un punct din apropriere xy din amtrice atunci muta il in alt punct al matricei
+e bun pebntru a face o animatie cu proximitati in 2d sau chiar 3d
